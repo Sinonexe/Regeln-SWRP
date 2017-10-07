@@ -58,7 +58,7 @@
 
 4. Festnahme
 4.1 Folgende Gründe erlauben eine Festnahme
-4.1.1 Das Abfeuern einer Waffe auf ein Ziel das nicht gekennzeichent ist als Trainingsziel oder Feind
+4.1.1 Das Abfeuern einer Waffe auf ein Ziel das weder Trainingsziel noch Feind ist.
 4.1.2 Sicherheitslevel brechen
 4.1.3 Körperverletzung / Mord eines Teammitgliedes
 4.1.4 Befehlsverweigerung
