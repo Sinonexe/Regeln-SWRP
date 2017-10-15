@@ -57,6 +57,7 @@
 4.1.7 Gesuchten Personen Schutz gewähren.
 4.1.8 Außrüstungabuse.
 4.2 Auf Verdacht/Zeugenaussagen kann gehandelt werden.
+5.2 Die maximale Haftstrafe ist 5 Minuten.
 
 
 5.Durchsuchungsbefehl 
@@ -67,6 +68,7 @@
 5.1.4 Gesuchte Personen befinden sich im Raum/Gebäude.
 5.1.5 Illegale Gegenstände wurden gesichtet. (Drogen, Illegale Waffen, etc.)
 5.2 Auf Verdacht/Zeugenaussagen kann gehandelt werden.
+5.3 Werden Durchsuchungsbefehle absichtlich in die länge gezogen durch zb. Drogenkontrolle, wird dies mit einer administrativen Strafe belegt.
 
 
 6. Feuergewalt 
@@ -125,7 +127,7 @@
 
 12. RST
 12.1 Die RST ist KEINE Geheimpolizei, sondern sie sind Shadow Trooper, sie haben keine Sonderrechte. (Außgenommen sie bekommen den Befehl dazu!)
-12.2 Sollte das Tarnmodul oder andere Ausrüstungsgegenstände abused werden ist der Commander dazu verpflichtet den betreffenden User aus dem Regiment zu werfen.
+12.2 Sollte das Tarnmodul oder andere Ausrüstungsgegenstände abused werden ist der Commander dazu verpflichtet den betreffenden User aus dem Regiment zu werfen
 
 
 Die Serverleitung behält sich jegliche Änderungen vor. 
