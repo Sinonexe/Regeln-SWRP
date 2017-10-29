@@ -87,7 +87,8 @@
 
 7. Job-Regeln: 
 7.1 Ein Job darf nicht im RP gewechselt werden.
-7.2 Ein Job darf nur innerhalb der Baracke gewechselt werden (Ausnahme: Nach TryOuts)
+7.2 Ein Jobwechsel darf nur in den Barracken gemacht werden (Ausnahme: Tryout).
+7.2.1 Wenn man dann in den Falschen Barracken ist, hat man diese sofort zu verlassen.
 7.3 Man darf nur in einem Regiment gleichzeitig sein.
 7.4 Commander dürfen einen inaktiven Sturmtruppler erst nach 3 Tagen aus dem Regiment verweisen. 
 
