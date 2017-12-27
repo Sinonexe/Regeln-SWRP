@@ -101,33 +101,18 @@
 8.2.2 Beim Wiederbeleben muss man auch einen /me-Command/Verbal sagen/schreiben bevor man ihn anwendet. Das Missachten dieser Regeln kann zu einer Degradierung oder einem Auswurf führen.
 8.2.3 Hier die Binds, welche einfach in die Konsole eingegeben werden müssen:  
 
-
 9. Pac3
 9.1 Alle nicht realistischen PAC Einstellungen sind verboten. Wenn Ihr euch nicht sicher seid ob es realistisch ist fragt ein Teammitglied vom Rang Admin oder höher!
 9.2 Der Missbrauch von PAC3 wird mit einem PAC-Bann bestraft.  
 
-
-10. Republik Commando
-10.1 Dürfen keine Aufgabe eines anderem Regimentes übernehmen, wenn dieses vorhanden ist.
-10.2 Sie sind mit allerhöchstem Respekt und Ehrfurcht zu behandeln.
-10.3 RC‘s haben nicht die Erlaubnis eine Todesliste zu führen.
-10.4 Sie haben die Erlaubnis andere Klone zu töten aber nur wenn sie es als Auftrag von der FC persönlich erhalten haben.
-10.5 Die RC‘s dürfen nicht mit dem Namen angesprochen werden. (2.14)
-10.6 RC`S müssen im "Verschlüsseltem Funk" funken.
-10.7 Man darf keine Klone töten, wenn sie wissen wo die Baracke der RC ist.
-10.8 Man darf RC’s nur mit den letzten zwei Ziffern ihrer ID ansprechen da nicht mehr über sie bekannt ist.
-10.9 RC’s dürfen nur Befehle von der FC oder dem Kanzler annehmen. 
-10.10 RC`s dürfen nur festgenommen werden, wenn sie sich ergeben haben.
- 
-
-11. Flotten Crew
-11.1 Die FC benötig einen Grund um Befehle zu erteilen.
-11.2 Die FC darf pro Regiment nur 1 Try-Out pro Tag erlauben.
+10. Flotten Crew
+10.1 Die FC benötig einen Grund um Befehle zu erteilen.
+10.2 Die FC darf pro Regiment nur 1 Try-Out pro Tag erlauben.
 
 
-12. RST
-12.1 Die RST ist KEINE Geheimpolizei, sondern sie sind Shadow Trooper, sie haben keine Sonderrechte. (Außgenommen sie bekommen den Befehl dazu!)
-12.2 Sollte das Tarnmodul oder andere Ausrüstungsgegenstände abused werden ist der Commander dazu verpflichtet den betreffenden User aus dem Regiment zu werfen
+11. RI
+11.1 Die RI ist KEINE Geheimpolizei, sie haben keine Sonderrechte. (Außgenommen sie bekommen den Befehl dazu!)
+11.2 Sollte die Drohne oder andere Ausrüstungsgegenstände abused werden ist der Direktor dazu verpflichtet den betreffenden User aus dem Regiment zu werfen.
 
 
 Die Serverleitung behält sich jegliche Änderungen vor. 
