@@ -33,9 +33,12 @@
 2.16 In die Spezialeinheit eines Regimentes darf man erst ab dem Rang Sergeant, Medic darf man ab Corporal werden.
 2.17 Das verwenden von modifiziertem Salutieren ist erlaubt solang es als Salutieren zu erkennen ist.
 2.18 Metagaming ist verboten.
+2.18.1 Definition: Metagaming ist das Verwenden von Informationen die man nicht hat. Beispiele Folgen
+2.18.1.1 Verwenden von Fahrzeugen ohne Pilotenausbildung
+2.18.1.2 Informationen von TS, Skype, Discord, etc
+2.18.1.2 Verwenden von Medizinischem Equipment ohne Medizinische Ausbildung.
 2.19 SexRP ist verboten.
 2.20 Ausrüstunsabuse ist strengstens untersagt!
-2.21 Ein Klon darf nur Medic ODER Spezialeinheit werden nicht beides!
 
 3. FailRP 
 3.1 Folgende Handlungen sind ausnahmslos verboten und werden bestraft:
@@ -74,6 +77,8 @@
 6. Feuergewalt 
 6.1 Ausschließlich die folgenden Gründe sind Feuergewalt-gründe:
 6.1.1 Selbstverteidigung.
+6.1.2 Schussfreigabe
+6.1.3 Ziel identifiziert als Feind und Gefährlich
 6.2 Grundloses Töten ist nicht erlaubt (RDM).
 
 7. Job-Regeln: 
@@ -82,6 +87,9 @@
 7.3 Job Anzahl
 7.3.1 - 2 Hauptregiment, 1 Jedi
 7.4 Man darf einen Klon erst nach 3 Tagen unabgemeldete Inaktivität kicken!  
+7.5 Ohne Pilotenausbildung wird nicht geflogen.
+7.6 Die Flottencrew ist verpflichtet bei Alarm eine durchsage mit dem Grund zu geben.
+
 
 
 8. Medic:
@@ -96,6 +104,7 @@
 8.1.9 Waffen sind in der Medbay verboten. Eine Missachtung kann zu einem Rauswurf aus der Medbay führen.
 8.1.10 In einem Einsatz darf nur in Sicherheit behandelt werden.
 8.1.11 Battlehealing/Kampfheilung ist verboten, sprich Andere oder sich selbst mitten im Kampf zu heilen. Man sollte dies nur an seinem sicheren Ort oder nach dem Kampf tun.
+
 8.2 MedicRP
 8.2.1 Ist eine wichtige Regel, die jeder Medic einhalten muss.
 8.2.2 Beim Wiederbeleben muss man auch einen /me-Command/Verbal sagen/schreiben bevor man ihn anwendet. Das Missachten dieser Regeln kann zu einer Degradierung oder einem Auswurf führen.
