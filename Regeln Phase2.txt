@@ -1,2 +1,1 @@
-Der Server wurde vorgewarnt von https://www.gmodstore.com/
-
+The server has been warned by https://www.gmodstore.com/
